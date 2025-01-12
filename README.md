@@ -2,7 +2,7 @@
 ### Hello, World! 👋 I'm @IrfansyahAdam
 
 - 👀 **Passionate About:** Data Analytics, Data Science, and Machine Learning/AI
-- 🌱 **Currently Exploring:** Python, Machine Learning/AI, R, & Power BI
+- 🌱 **Currently Exploring:** Python, Machine Learning/AI, SQL, & Power BI
 - 💻 **Seeking Opportunities:** Data Analyst, Data Scientist, & Machine Learning/AI Engineer Internships
 - 📬 **Get in Touch:**
   - Email: [muhammadirfansyahadam@gmail.com](mailto:muhammadirfansyahadam@gmail.com)
