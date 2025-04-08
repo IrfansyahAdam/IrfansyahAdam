@@ -3,7 +3,7 @@
 
 - 👀 **Passionate About:** Data Analytics, Data Science, and Machine Learning/AI
 - 🌱 **Currently Exploring:** Python, Machine Learning/AI, SQL, & Power BI
-- 💻 **Seeking Opportunities:** Data Analyst, Data Scientist, & Machine Learning/AI Engineer Internships
+- 💻 **Seeking Opportunities:** Data Analyst, Data Scientist, & Machine Learning/AI Engineer
 - 📬 **Get in Touch:**
   - Email: [muhammadirfansyahadam@gmail.com](mailto:muhammadirfansyahadam@gmail.com)
   - LinkedIn: [Muhammad Irfansyah Adam](https://www.linkedin.com/in/Muhammad-Irfansyah-Adam)
