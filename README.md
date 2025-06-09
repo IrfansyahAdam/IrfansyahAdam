@@ -1,9 +1,9 @@
 
 ### Hello, World! Welcome to my Github Portfolio  👋 I'm @IrfansyahAdam
 
-- 👀 **Passionate About:** Data Analytics, Data Science, and Machine Learning/AI
+- 👀 **Passionate About:** Data Analytics, Data Science, and Business Intelligence
 - 🌱 **Currently Exploring:** Python, Machine Learning/AI, SQL, & Power BI
-- 💻 **Seeking Opportunities:** Data Analyst, Data Scientist, & Machine Learning/AI Engineer
+- 💻 **Seeking Opportunities:** Data Analyst, Data Scientist, Machine Learning/AI Engineer, & Business Intelligence Specialist
 - 📬 **Get in Touch:**
   - Email: [muhammadirfansyahadam@gmail.com](mailto:muhammadirfansyahadam@gmail.com)
   - LinkedIn: [Muhammad Irfansyah Adam](https://www.linkedin.com/in/Muhammad-Irfansyah-Adam)
